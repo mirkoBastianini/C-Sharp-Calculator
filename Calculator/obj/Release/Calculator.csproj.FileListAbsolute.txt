@@ -1,0 +1,13 @@
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Release\Calculator.exe.config
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Release\Calculator.exe
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\bin\Release\Calculator.pdb
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\MainWindow.baml
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\MainWindow.g.cs
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\App.g.cs
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator_MarkupCompile.cache
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.g.resources
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.Properties.Resources.resources
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.csproj.GenerateResource.Cache
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.exe
+c:\users\mirko\documents\visual studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.pdb
+C:\Users\mirko\Documents\Visual Studio 2015\Projects\Calculator\Calculator\obj\Release\Calculator.csprojResolveAssemblyReference.cache
